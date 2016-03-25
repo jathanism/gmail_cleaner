@@ -23,8 +23,8 @@ How this works
 3. Update USERNAME with your Gmail address.
 
 4. Update PASSWORD with your Gmail password. If you have two-step
-   authentication enabled, you'll need to create a new application password.
-   and use that here.
+   authentication enabled, you'll need to create a new application password and
+   use that here.
 
 5. Run it like so::
 
